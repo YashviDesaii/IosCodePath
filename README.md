@@ -4,7 +4,7 @@ Submitted by: **Yashvi Desai**
 
 **ClickColorChange** is an app that dynamically changes the background color of a basic IOS application to a random color on click of a button 
 
-Time spent: **2** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
